@@ -20,9 +20,9 @@ To leverage this, you'll need to copy the python file to your local machine.
 
 Were you successful in getting the imported code to run in your environment? Sample code below.
 
-import MouseIntro
+import mouseintro
 
-test = MouseIntro()
+test = mouseintro.MouseIntro()
 
 test.printHelloWorld()
 
