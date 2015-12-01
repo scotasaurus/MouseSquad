@@ -39,9 +39,6 @@ What license is this repository covered by?
 
 
 
+### Future Assignments
 
-
-
-
-
-Materials for all modules are included in this respository as well.
+Feel free to browse! Materials for all modules are included in this respository for future consumption.
